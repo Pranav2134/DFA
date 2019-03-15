@@ -1,0 +1,2 @@
+# DFA
+deterministic finite automaton
